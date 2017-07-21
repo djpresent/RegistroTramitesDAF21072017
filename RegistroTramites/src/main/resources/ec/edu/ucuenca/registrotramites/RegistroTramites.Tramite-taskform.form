@@ -1,0 +1,153 @@
+
+<form id="279627221">
+<property name="name" value="RegistroTramites.Tramite-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name=":decorator_0" type="HTMLLabel" id="861691500">
+<property name="fieldRequired" value="false"/>
+<property name="readonly" value="false"/>
+<property name="htmlContent" value="quot;caquot;,quot;&lt;div style=&quot;width:700px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;REGISTRO DE TRAMITES -DIRECCION ADMINISTRATIVA FINANCIERA&lt;/strong&gt;&lt;/div&gt; quot;quot;dequot;,quot;&lt;div style=&quot;width:700px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;REGISTRO DE TRAMITES -DIRECCION ADMINISTRATIVA FINANCIERA&lt;/strong&gt;&lt;/div&gt; quot;quot;enquot;,quot;&lt;div style=&quot;width:700px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;REGISTRO DE TRAMITES -DIRECCION ADMINISTRATIVA FINANCIERA&lt;/strong&gt;&lt;/div&gt; quot;quot;esquot;,quot;&lt;div style=&quot;width:700px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;REGISTRO DE TRAMITES -DIRECCION ADMINISTRATIVA FINANCIERA&lt;/strong&gt;&lt;/div&gt; quot;quot;frquot;,quot;&lt;div style=&quot;width:700px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;REGISTRO DE TRAMITES -DIRECCION ADMINISTRATIVA FINANCIERA&lt;/strong&gt;&lt;/div&gt; quot;quot;jaquot;,quot;&lt;div style=&quot;width:700px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;REGISTRO DE TRAMITES -DIRECCION ADMINISTRATIVA FINANCIERA&lt;/strong&gt;&lt;/div&gt; quot;quot;ptquot;,quot;&lt;div style=&quot;width:700px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;REGISTRO DE TRAMITES -DIRECCION ADMINISTRATIVA FINANCIERA&lt;/strong&gt;&lt;/div&gt; quot;quot;zhquot;,quot;&lt;div style=&quot;width:700px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;REGISTRO DE TRAMITES -DIRECCION ADMINISTRATIVA FINANCIERA&lt;/strong&gt;&lt;/div&gt; quot;"/>
+<property name="fieldClass" value="HTMLlabel"/>
+</field>
+<field position="1" name="tramite_fechaIngresoTramite" type="InputShortDate" id="312041468">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;fechaIngresoTramite (tramite)quot;quot;esquot;,quot;Fecha de Ingresoquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="size" value="45"/>
+<property name="inputBinding" value="tramite/fechaIngresoTramite"/>
+<property name="outputBinding" value="tramite/fechaIngresoTramite"/>
+<property name="fieldClass" value="java.util.Date"/>
+</field>
+<field position="2" name="tramite_numeroUnicoTramite" type="InputText" id="156910393">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;numeroUnicoTramite (tramite)quot;quot;esquot;,quot;Número Único de Trámitequot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="size" value="45"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="tramite/numeroUnicoTramite"/>
+<property name="outputBinding" value="tramite/numeroUnicoTramite"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="3" name="tramite_numeroDocumento" type="InputText" id="1917700235">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;numeroDocumento (tramite)quot;quot;esquot;,quot;Número de Documentoquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="size" value="45"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="tramite/numeroDocumento"/>
+<property name="outputBinding" value="tramite/numeroDocumento"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="4" name="tramite_dependenciaOrigen" type="InputText" id="1750867547">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;dependenciaOrigen (tramite)quot;quot;esquot;,quot;Dependenciaquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="size" value="104"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="tramite/dependenciaOrigen"/>
+<property name="outputBinding" value="tramite/dependenciaOrigen"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="5" name="tramite_solicitante" type="InputText" id="1365164817">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;solicitante (tramite)quot;quot;esquot;,quot;Solicitantequot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="size" value="104"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="tramite/solicitante"/>
+<property name="outputBinding" value="tramite/solicitante"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="6" name="tramite_descripcion" type="InputTextArea" id="1122303279">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;descripcion (tramite)quot;quot;esquot;,quot;Asuntoquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="size" value="104"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="tramite/descripcion"/>
+<property name="outputBinding" value="tramite/descripcion"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="7" name="tramite_fechaSolicitud" type="InputShortDate" id="1944220317">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;fechaSolicitud (tramite)quot;quot;esquot;,quot;Fecha de Solicitudquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="size" value="45"/>
+<property name="inputBinding" value="tramite/fechaSolicitud"/>
+<property name="outputBinding" value="tramite/fechaSolicitud"/>
+<property name="fieldClass" value="java.util.Date"/>
+</field>
+<field position="8" name="tramite_esQuipux" type="InputText" id="1939897112">
+<property name="fieldRequired" value="true"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;esQuipux (tramite)quot;quot;esquot;,quot;Es documento QUIPUXquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="size" value="45"/>
+<property name="rangeFormula" value="{,; SI,SI;NO,NO}"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="tramite/esQuipux"/>
+<property name="outputBinding" value="tramite/esQuipux"/>
+<property name="customFieldType" value="ec.edu.ucuenca.combo.providers.AfiiliacionProvider"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="9" name=":decorator_1" type="HTMLLabel" id="706253218">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="readonly" value="false"/>
+<property name="htmlContent" value="quot;caquot;,quot;&lt;div style=&quot;width:700px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;REASIGNACIONES&lt;/strong&gt;&lt;/div&gt; quot;quot;dequot;,quot;&lt;div style=&quot;width:700px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;REASIGNACIONES&lt;/strong&gt;&lt;/div&gt; quot;quot;enquot;,quot;&lt;div style=&quot;width:700px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;REASIGNACIONES&lt;/strong&gt;&lt;/div&gt; quot;quot;esquot;,quot;&lt;div style=&quot;width:700px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;REASIGNACIONES&lt;/strong&gt;&lt;/div&gt; quot;quot;frquot;,quot;&lt;div style=&quot;width:700px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;REASIGNACIONES&lt;/strong&gt;&lt;/div&gt; quot;quot;jaquot;,quot;&lt;div style=&quot;width:700px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;REASIGNACIONES&lt;/strong&gt;&lt;/div&gt; quot;quot;ptquot;,quot;&lt;div style=&quot;width:700px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;REASIGNACIONES&lt;/strong&gt;&lt;/div&gt; quot;quot;zhquot;,quot;&lt;div style=&quot;width:700px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;REASIGNACIONES&lt;/strong&gt;&lt;/div&gt; quot;"/>
+<property name="fieldClass" value="HTMLlabel"/>
+</field>
+<field position="10" name="tramite_reasignacion" bag-type="ec.edu.ucuenca.registrotramites.daf_rrt_reasignacion" type="MultipleSubform" id="551209737">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;reasignacion (tramite)quot;quot;esquot;,quot; quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="tramite/reasignacion"/>
+<property name="outputBinding" value="tramite/reasignacion"/>
+<property name="defaultSubform" value="Reasignacion.form"/>
+<property name="previewSubform" value="Reasignacion.form"/>
+<property name="tableSubform" value="Reasignacion.form"/>
+<property name="newItemText" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;Agregarquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="addItemText" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;Nueva Reasignaciónquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="cancelItemText" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;Cancelarquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="deleteItems" value="true"/>
+<property name="updateItems" value="true"/>
+<property name="visualizeItems" value="false"/>
+<property name="hideCreateItem" value="false"/>
+<property name="expanded" value="false"/>
+<property name="enableTableEnterData" value="true"/>
+<property name="fieldClass" value="java.util.List"/>
+</field>
+<dataHolder inputId="tramite" name="#E9E371" type="dataModelerEntry" outId="tramite" value="ec.edu.ucuenca.registrotramites.daf_rrt_tramite" id="tramite"/>
+</form>

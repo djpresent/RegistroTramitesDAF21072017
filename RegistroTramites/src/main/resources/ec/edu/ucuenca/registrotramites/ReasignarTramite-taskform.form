@@ -1,0 +1,202 @@
+
+<form id="1803714802">
+<property name="name" value="ReasignarTramite-taskform.form"/>
+<property name="displayMode" value="template"/>
+<property name="labelMode" value="undefined"/>
+<property name="status" value="0"/>
+<property name="formTemplate" value="&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; width=&quot;1%&quot;&gt;  &lt;tbody&gt;   &lt;tr&gt;    &lt;td align=&quot;left&quot; colspan=&quot;2&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;100%&quot;&gt;    &lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;     &lt;tbody&gt;      &lt;tr&gt;       &lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;       &lt;div id=&quot;:decorator_1_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{:decorator_1}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;       &lt;td valign=&quot;top&quot;&gt;       &lt;div id=&quot;:decorator_1_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{:decorator_1}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;     &lt;/tbody&gt;    &lt;/table&gt;    &lt;/td&gt;   &lt;/tr&gt;   &lt;tr&gt;    &lt;td align=&quot;left&quot; colspan=&quot;2&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;100%&quot;&gt;    &lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;     &lt;tbody&gt;      &lt;tr&gt;       &lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;       &lt;div id=&quot;tramite_fechaIngresoTramite_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{tramite_fechaIngresoTramite}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;       &lt;td valign=&quot;top&quot;&gt;       &lt;div id=&quot;tramite_fechaIngresoTramite_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{tramite_fechaIngresoTramite}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;     &lt;/tbody&gt;    &lt;/table&gt;    &lt;/td&gt;   &lt;/tr&gt;   &lt;tr&gt;    &lt;td align=&quot;left&quot; colspan=&quot;1&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;50%&quot;&gt;    &lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;     &lt;tbody&gt;      &lt;tr&gt;       &lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;       &lt;div id=&quot;tramite_numeroUnicoTramite_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{tramite_numeroUnicoTramite}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;       &lt;td valign=&quot;top&quot;&gt;       &lt;div id=&quot;tramite_numeroUnicoTramite_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{tramite_numeroUnicoTramite}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;     &lt;/tbody&gt;    &lt;/table&gt;    &lt;/td&gt;    &lt;td align=&quot;left&quot; colspan=&quot;1&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;50%&quot;&gt;    &lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;     &lt;tbody&gt;      &lt;tr&gt;       &lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;       &lt;div id=&quot;tramite_numeroDocumento_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{tramite_numeroDocumento}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;       &lt;td valign=&quot;top&quot;&gt;       &lt;div id=&quot;tramite_numeroDocumento_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{tramite_numeroDocumento}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;     &lt;/tbody&gt;    &lt;/table&gt;    &lt;/td&gt;   &lt;/tr&gt;   &lt;tr&gt;    &lt;td align=&quot;left&quot; colspan=&quot;2&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;100%&quot;&gt;    &lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;     &lt;tbody&gt;      &lt;tr&gt;       &lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;       &lt;div id=&quot;tramite_solicitante_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{tramite_solicitante}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;       &lt;td valign=&quot;top&quot;&gt;       &lt;div id=&quot;tramite_solicitante_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{tramite_solicitante}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;     &lt;/tbody&gt;    &lt;/table&gt;    &lt;/td&gt;   &lt;/tr&gt;   &lt;tr&gt;    &lt;td align=&quot;left&quot; colspan=&quot;2&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;100%&quot;&gt;    &lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;     &lt;tbody&gt;      &lt;tr&gt;       &lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;       &lt;div id=&quot;tramite_dependenciaOrigen_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{tramite_dependenciaOrigen}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;       &lt;td valign=&quot;top&quot;&gt;       &lt;div id=&quot;tramite_dependenciaOrigen_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{tramite_dependenciaOrigen}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;     &lt;/tbody&gt;    &lt;/table&gt;    &lt;/td&gt;   &lt;/tr&gt;   &lt;tr&gt;    &lt;td align=&quot;left&quot; colspan=&quot;2&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;100%&quot;&gt;    &lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;     &lt;tbody&gt;      &lt;tr&gt;       &lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;       &lt;div id=&quot;tramite_descripcion_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{tramite_descripcion}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;       &lt;td valign=&quot;top&quot;&gt;       &lt;div id=&quot;tramite_descripcion_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{tramite_descripcion}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;     &lt;/tbody&gt;    &lt;/table&gt;    &lt;/td&gt;   &lt;/tr&gt;   &lt;tr&gt;    &lt;td align=&quot;left&quot; colspan=&quot;1&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;50%&quot;&gt;    &lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;     &lt;tbody&gt;      &lt;tr&gt;       &lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;       &lt;div id=&quot;tramite_fechaSolicitud_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{tramite_fechaSolicitud}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;       &lt;td valign=&quot;top&quot;&gt;       &lt;div id=&quot;tramite_fechaSolicitud_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{tramite_fechaSolicitud}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;     &lt;/tbody&gt;    &lt;/table&gt;    &lt;/td&gt;    &lt;td align=&quot;left&quot; colspan=&quot;1&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;50%&quot;&gt;    &lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;     &lt;tbody&gt;      &lt;tr&gt;       &lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;       &lt;div id=&quot;tramite_esQuipux_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{tramite_esQuipux}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;       &lt;td valign=&quot;top&quot;&gt;       &lt;div id=&quot;tramite_esQuipux_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{tramite_esQuipux}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;     &lt;/tbody&gt;    &lt;/table&gt;    &lt;/td&gt;   &lt;/tr&gt;   &lt;tr&gt;    &lt;td align=&quot;left&quot; colspan=&quot;2&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;100%&quot;&gt;    &lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;     &lt;tbody&gt;      &lt;tr&gt;       &lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;       &lt;div id=&quot;:decorator_2_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{:decorator_2}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;       &lt;td valign=&quot;top&quot;&gt;       &lt;div id=&quot;:decorator_2_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{:decorator_2}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;     &lt;/tbody&gt;    &lt;/table&gt;    &lt;/td&gt;   &lt;/tr&gt;   &lt;tr&gt;    &lt;td align=&quot;left&quot; colspan=&quot;2&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;100%&quot;&gt;    &lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;     &lt;tbody&gt;      &lt;tr&gt;       &lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;       &lt;div id=&quot;tramite_finalizado_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{tramite_finalizado}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;       &lt;td valign=&quot;top&quot;&gt;       &lt;div id=&quot;tramite_finalizado_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{tramite_finalizado}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;     &lt;/tbody&gt;    &lt;/table&gt;    &lt;/td&gt;   &lt;/tr&gt;   &lt;tr&gt;    &lt;td align=&quot;left&quot; colspan=&quot;1&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;50%&quot;&gt;    &lt;div id=&quot;fs&quot;&gt;    &lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;     &lt;tbody&gt;      &lt;tr&gt;       &lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;       &lt;div id=&quot;tramite_fechaFinalizacion_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{tramite_fechaFinalizacion}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;       &lt;td valign=&quot;top&quot;&gt;       &lt;div id=&quot;tramite_fechaFinalizacion_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{tramite_fechaFinalizacion}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;     &lt;/tbody&gt;    &lt;/table&gt;    &lt;/div&gt;    &lt;/td&gt;    &lt;td align=&quot;left&quot; colspan=&quot;1&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;50%&quot;&gt;    &lt;div id=&quot;fs1&quot;&gt;    &lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;     &lt;tbody&gt;      &lt;tr&gt;       &lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;       &lt;div id=&quot;tramite_documentoFinaliza_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{tramite_documentoFinaliza}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;       &lt;td valign=&quot;top&quot;&gt;       &lt;div id=&quot;tramite_documentoFinaliza_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{tramite_documentoFinaliza}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;     &lt;/tbody&gt;    &lt;/table&gt;    &lt;/div&gt;    &lt;/td&gt;   &lt;/tr&gt;   &lt;tr&gt;    &lt;td align=&quot;left&quot; colspan=&quot;2&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;100%&quot;&gt;    &lt;div id=&quot;reasignacion&quot;&gt;    &lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;     &lt;tbody&gt;      &lt;tr&gt;       &lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;       &lt;div style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{:decorator_0}&lt;/div&gt;        &lt;div style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{tramite_reasignacion}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;       &lt;td valign=&quot;top&quot;&gt;       &lt;div id=&quot;tramite_reasignacion_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{tramite_reasignacion}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;     &lt;/tbody&gt;    &lt;/table&gt;    &lt;/div&gt;    &lt;/td&gt;   &lt;/tr&gt;  &lt;/tbody&gt; &lt;/table&gt;  &lt;p&gt;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&amp;nbsp;&lt;/p&gt; "/>
+<field position="0" name=":decorator_1" type="HTMLLabel" id="1409005879">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="readonly" value="false"/>
+<property name="htmlContent" value="quot;caquot;,quot;&lt;div style=&quot;width:700px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;REGISTRO DE TRAMITES -DIRECCION ADMINISTRATIVA FINANCIERA&lt;/strong&gt;&lt;/div&gt; quot;quot;dequot;,quot;&lt;div style=&quot;width:700px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;REGISTRO DE TRAMITES -DIRECCION ADMINISTRATIVA FINANCIERA&lt;/strong&gt;&lt;/div&gt; quot;quot;enquot;,quot;&lt;div style=&quot;width:700px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;REGISTRO DE TRAMITES -DIRECCION ADMINISTRATIVA FINANCIERA&lt;/strong&gt;&lt;/div&gt; quot;quot;esquot;,quot;&lt;div style=&quot;width:700px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;REGISTRO DE TRAMITES -DIRECCION ADMINISTRATIVA FINANCIERA&lt;/strong&gt;&lt;/div&gt; quot;quot;frquot;,quot;&lt;div style=&quot;width:700px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;REGISTRO DE TRAMITES -DIRECCION ADMINISTRATIVA FINANCIERA&lt;/strong&gt;&lt;/div&gt; quot;quot;jaquot;,quot;&lt;div style=&quot;width:700px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;REGISTRO DE TRAMITES -DIRECCION ADMINISTRATIVA FINANCIERA&lt;/strong&gt;&lt;/div&gt; quot;quot;ptquot;,quot;&lt;div style=&quot;width:700px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;REGISTRO DE TRAMITES -DIRECCION ADMINISTRATIVA FINANCIERA&lt;/strong&gt;&lt;/div&gt; quot;quot;zhquot;,quot;&lt;div style=&quot;width:700px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;REGISTRO DE TRAMITES -DIRECCION ADMINISTRATIVA FINANCIERA&lt;/strong&gt;&lt;/div&gt; quot;"/>
+<property name="fieldClass" value="HTMLlabel"/>
+</field>
+<field position="1" name="tramite_fechaIngresoTramite" type="InputShortDate" id="1972408489">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;Fecha de ingresoquot;quot;esquot;,quot;Fecha de Ingresoquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value="45"/>
+<property name="inputBinding" value="tramite/fechaIngresoTramite"/>
+<property name="outputBinding" value="tramite/fechaIngresoTramite"/>
+<property name="fieldClass" value="java.util.Date"/>
+</field>
+<field position="2" name="tramite_numeroUnicoTramite" type="InputText" id="410277838">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;numeroUnicoTramite (tramite)quot;quot;esquot;,quot;Número Único de Trámitequot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value="45"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="tramite/numeroUnicoTramite"/>
+<property name="outputBinding" value="tramite/numeroUnicoTramite"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="3" name="tramite_numeroDocumento" type="InputText" id="815530209">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;Numero de documentoquot;quot;esquot;,quot;Número de Documentoquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value="45"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="tramite/numeroDocumento"/>
+<property name="outputBinding" value="tramite/numeroDocumento"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="4" name="tramite_solicitante" type="InputText" id="2136727142">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;Solicitantequot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value="106"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="tramite/solicitante"/>
+<property name="outputBinding" value="tramite/solicitante"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="5" name="tramite_dependenciaOrigen" type="InputText" id="830301413">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;Dependenciaquot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value="106"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="tramite/dependenciaOrigen"/>
+<property name="outputBinding" value="tramite/dependenciaOrigen"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="6" name="tramite_descripcion" type="InputTextArea" id="327958796">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;Descripcionquot;quot;esquot;,quot;Asuntoquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value="102"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="tramite/descripcion"/>
+<property name="outputBinding" value="tramite/descripcion"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="7" name="tramite_fechaSolicitud" type="InputShortDate" id="746040365">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;Fecha de solicitudquot;quot;esquot;,quot;Fecha de Solicitudquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value="45"/>
+<property name="inputBinding" value="tramite/fechaSolicitud"/>
+<property name="outputBinding" value="tramite/fechaSolicitud"/>
+<property name="fieldClass" value="java.util.Date"/>
+</field>
+<field position="8" name="tramite_esQuipux" type="InputText" id="432825472">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;esQuipux (tramite)quot;quot;esquot;,quot;¿Es Documento QUIPUX?quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="tramite/esQuipux"/>
+<property name="outputBinding" value="tramite/esQuipux"/>
+<property name="customFieldType" value="ec.edu.ucuenca.combo.providers.AfiiliacionProvider"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="9" name=":decorator_2" type="HTMLLabel" id="1656796490">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="readonly" value="false"/>
+<property name="htmlContent" value="quot;caquot;,quot;&lt;div style=&quot;width:700px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;REASIGNACIONES&lt;/strong&gt;&lt;/div&gt; quot;quot;dequot;,quot;&lt;div style=&quot;width:700px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;REASIGNACIONES&lt;/strong&gt;&lt;/div&gt; quot;quot;enquot;,quot;&lt;div style=&quot;width:700px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;REASIGNACIONES&lt;/strong&gt;&lt;/div&gt; quot;quot;esquot;,quot;&lt;div style=&quot;width:700px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;REASIGNACIONES&lt;/strong&gt;&lt;/div&gt; quot;quot;frquot;,quot;&lt;div style=&quot;width:700px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;REASIGNACIONES&lt;/strong&gt;&lt;/div&gt; quot;quot;jaquot;,quot;&lt;div style=&quot;width:700px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;REASIGNACIONES&lt;/strong&gt;&lt;/div&gt; quot;quot;ptquot;,quot;&lt;div style=&quot;width:700px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;REASIGNACIONES&lt;/strong&gt;&lt;/div&gt; quot;quot;zhquot;,quot;&lt;div style=&quot;width:700px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;REASIGNACIONES&lt;/strong&gt;&lt;/div&gt; quot;"/>
+<property name="fieldClass" value="HTMLlabel"/>
+</field>
+<field position="10" name="tramite_finalizado" type="InputText" id="1082175265">
+<property name="fieldRequired" value="true"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;finalizado (tramite)quot;quot;esquot;,quot;¿Finalizar Trámite?quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="rangeFormula" value="{,;SI,SI;NO,NO}"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="Stramite/finalizado"/>
+<property name="outputBinding" value="tramite/finalizado"/>
+<property name="fieldClass" value="java.lang.String"/>
+<property name="onChangeScript" value="var e = document.getElementById(&quot;tramite_finalizado&quot;).value; if (e==&quot;NO&quot;)    {       $(&apos;#fs&apos;).hide();  $(&apos;#fs1&apos;).hide();   $(&apos;#reasignacion&apos;).show();      }    else  {     $(&apos;#tramite_fechaFinalizacion&apos;).val(&apos;&apos;);   $(&apos;#tramite_documentoFinaliza&apos;).val(&apos;&apos;);   $(&apos;#fs&apos;).show();  $(&apos;#fs1&apos;).show();    $(&apos;#reasignacion&apos;).hide();   $(&quot;#tramite_fechaFinalizacion&quot;).prop(&quot;disabled&quot;, false);  $(&quot;#tramite_fechaFinalizacion&quot;).attr(&quot;readonly&quot;, false);   $(&quot;#tramite_documentoFinaliza&quot;).attr(&quot;readonly&quot;, false);  $(&quot;#tramite_fechaFinalizacion_hasChanged&quot;).attr(&quot;readonly&quot;, false);  var elemento = $(&quot;#tramite_fechaFinalizacion_hasChanged&quot;).next().attr(&apos;onClick&apos;, &apos; document.getElementById(\&apos;tramite_fechaFinalizacion_hasChanged\&apos;).value = true; $(\&apos;input[id=\\\&apos;tramite_fechaFinalizacion\\\&apos;]\&apos;).datepicker(\&apos;show\&apos;);  return false&apos;);  }  "/>
+</field>
+<field position="11" name="tramite_fechaFinalizacion" type="InputShortDate" id="1245603431">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;Fecha de finalizacionquot;quot;esquot;,quot;Fecha de Finalizaciónquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="size" value="45"/>
+<property name="inputBinding" value="tramite/fechaFinalizacion"/>
+<property name="outputBinding" value="tramite/fechaFinalizacion"/>
+<property name="fieldClass" value="java.util.Date"/>
+</field>
+<field position="12" name="tramite_documentoFinaliza" type="InputText" id="1391119541">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;documentoFinaliza (tramite)quot;quot;esquot;,quot;Documento con el que se Finalizaquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value="45"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="tramite/documentoFinaliza"/>
+<property name="outputBinding" value="tramite/documentoFinaliza"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="13" name="tramite_reasignacion" bag-type="ec.edu.ucuenca.registrotramites.Reasignacion" type="MultipleSubform" id="1816662004">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;Reasignaciones realizadasquot;quot;esquot;,quot; quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="cssStyle" value="#fs {     display: none; }"/>
+<property name="inputBinding" value="tramite/reasignacion"/>
+<property name="outputBinding" value="tramite/reasignacion"/>
+<property name="defaultSubform" value="Reasignacion.form"/>
+<property name="previewSubform" value="Reasignacion.form"/>
+<property name="tableSubform" value="Reasignacion.form"/>
+<property name="newItemText" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;Nuevaquot;quot;esquot;,quot;Agregarquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="addItemText" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;Crearquot;quot;esquot;,quot;Nueva Reasignaciónquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="cancelItemText" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;Cancelarquot;quot;esquot;,quot;Cancelarquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="deleteItems" value="false"/>
+<property name="updateItems" value="false"/>
+<property name="visualizeItems" value="false"/>
+<property name="hideCreateItem" value="false"/>
+<property name="expanded" value="false"/>
+<property name="enableTableEnterData" value="true"/>
+<property name="fieldClass" value="java.util.List"/>
+</field>
+<field position="14" name=":decorator_0" type="HTMLLabel" id="1278671903">
+<property name="fieldRequired" value="false"/>
+<property name="readonly" value="false"/>
+<property name="htmlContent" value="quot;caquot;,quot;&lt;div style=&quot;width:700px;height:5px;text-align:center; background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;-&lt;/strong&gt;&lt;/div&gt; quot;quot;dequot;,quot;&lt;div style=&quot;width:700px;height:5px;text-align:center; background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;-&lt;/strong&gt;&lt;/div&gt; quot;quot;enquot;,quot;&lt;div style=&quot;width:700px;height:5px;text-align:center; background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;-&lt;/strong&gt;&lt;/div&gt; quot;quot;esquot;,quot;&lt;div style=&quot;width:700px;height:5px;text-align:center; background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;-&lt;/strong&gt;&lt;/div&gt; quot;quot;frquot;,quot;&lt;div style=&quot;width:700px;height:5px;text-align:center; background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;-&lt;/strong&gt;&lt;/div&gt; quot;quot;jaquot;,quot;&lt;div style=&quot;width:700px;height:5px;text-align:center; background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;-&lt;/strong&gt;&lt;/div&gt; quot;quot;ptquot;,quot;&lt;div style=&quot;width:700px;height:5px;text-align:center; background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;-&lt;/strong&gt;&lt;/div&gt; quot;quot;zhquot;,quot;&lt;div style=&quot;width:700px;height:5px;text-align:center; background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;-&lt;/strong&gt;&lt;/div&gt; quot;"/>
+<property name="fieldClass" value="HTMLlabel"/>
+</field>
+<dataHolder inputId="tramite" name="#E9E371" type="dataModelerEntry" outId="tramite" value="ec.edu.ucuenca.registrotramites.daf_rrt_tramite" id="tramite"/>
+</form>

@@ -1,0 +1,48 @@
+
+<form id="308291432">
+<property name="name" value="Reasignacion.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="reasignacion_fecha" type="InputShortDate" id="2098109427">
+<property name="fieldRequired" value="true"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;Fechaquot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="size" value="15"/>
+<property name="inputBinding" value="reasignacion/fecha"/>
+<property name="outputBinding" value="reasignacion/fecha"/>
+<property name="fieldClass" value="java.util.Date"/>
+</field>
+<field position="1" name="reasignacion_usuarioDestino" type="SelectBox" id="465154386">
+<property name="fieldRequired" value="true"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;Usuario destinoquot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="rangeFormula" value="{cristina.andrade , ANDRADE ANDRADE CRISTINA PAOLA; estefania.andrade , ANDRADE SANCHEZ ANDREA ESTEFANIA; norma.barreto , BARRETO SIGUENCIA NORMA MARGARITA; paulo.berrezueta , BERREZUETA CRIOLLO PAULO ALEXANDER; erika.berrones , BERRONES MENDEZ ERIKA VIVIANA; irma.brito , BRITO VASQUEZ IRMA FABIOLA; jose.canizares , CAÑIZARES CAÑIZARES JOSE FERNANDO; gabriel.cartagena , CARTAGENA CAMPOVERDE JUAN GABRIEL; tatiana.castillo , CASTILLO PALOMEQUE TATIANA PAOLA; julia.castrop , CASTRO PESANTEZ JULIA BEATRIZ; paulo.cobos , COBOS PESANTEZ PAULO CESAR; oswaldo.collaguazo , COLLAGUAZO NAULA OSWALDO JULIO; elizabeth.delgadov , DELGADO VELESACA MARIA ELIZABETH; sonia.donoso , DONOSO CORREA SONIA PATRICIA; soledad.escandonm , ESCANDON MEJIA MARIA SOLEDAD; fernanda.figueroa , FIGUEROA TORRES MARIA FERNANDA; franklin.flores , FLORES FLORES FRANKLIN PATRICIO; vanessa.garcia , GARCIA ARPI VANESSA NATALY; deisy.granja , GRANJA ZABALA DEISY ALEXANDRA; david.larriva84 , LARRIVA PESANTEZ ADRIAN DAVID; juan.llerena , LLERENA GOMEZ JUAN ANTONIO; monica.mancero , MANCERO LUZURIAGA MONICA PRISCILA; nancy.mendez , MENDEZ ROJAS NANCY PATRICIA; silvana.merchan , MERCHAN CORDERO SILVANA ALEXANDRA; xavier.molina , MOLINA SALGADO XAVIER ANTONIO; fabian.orellana , ORELLANA CHACON FABIAN ESTEBAN; carmen.paida , PAIDA SARMIENTO CARMEN TERESA; jose.pauta , PAUTA GUZMAN JOSE OSWALDO; monica.pauta , PAUTA MOLINA MONICA CECILIA; lisbeth.pineda , PINEDA VALAREZO GLENDA LISBETH; diana.quezada , QUEZADA CABRERA DIANA CATALINA; miriam.reinoso , REINOSO AVECILLAS MIRIAM CECILIA; catalina.rivera , RIVERA OCHOA BLANCA CATALINA; freddy.sanchez , SANCHEZ QUITO FREDDY MANUEL; dory.tapia , TAPIA VERA DORY JANETH; mayra.torres , TORRES SALAMEA MAYRA ALEXANDRA; tania.urena , UREÑA UREÑA TANIA MARILU; ines.vanegas , VANEGAS MATUTE INES CATALINA; jenny.velezc , VELEZ CORDERO JENNY SOLEDAD; fernando.velez , VELEZ MENDOZA ARTURO FERNANDO; paul.vidal, VIDAL VIDAL PAUL MARCELO; fernando.villa, VILLA PAUTE FERNANDO SANTIAGO; cristina.alcivar, ALCIVAR ARIZAGA CRISTINA PAOLA; cecilia.bermeo, BERMEO AYORA MARTHA CECILIA; diana.cajamarca, CAJAMARCA LLIVIPUMA DIANA LUCIA; vanessa.pachecoa , PACHECO ARCE GLADYS VANESSA; carlos.vera, VERA DELGADO CARLOS ANDRES; jenny.castro, CASTRO CASTRO JENNY MAGALI;, }"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="reasignacion/usuarioDestino"/>
+<property name="outputBinding" value="reasignacion/usuarioDestino"/>
+<property name="customFieldType" value="ec.edu.ucuenca.combo.providers.PersonalDafProvider"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="2" name="reasignacion_accionARealizar" type="InputText" id="643560401">
+<property name="fieldRequired" value="true"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;Accion a realizarquot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="size" value="50"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="reasignacion/accionARealizar"/>
+<property name="outputBinding" value="reasignacion/accionARealizar"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="reasignacion" name="#9BCAFA" type="dataModelerEntry" outId="reasignacion" value="ec.edu.ucuenca.registrotramites.daf_rrt_reasignacion" id="reasignacion"/>
+</form>
